@@ -2,7 +2,4 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-data/*.csv
-models/*.joblib
-models/*.keras
 .DS_Store
